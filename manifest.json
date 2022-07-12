@@ -1,5 +1,4 @@
 {
- "name": "Auchan Onboarding",
  "icons": [
   {
    "type": "image/png",
@@ -37,8 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
+ "name": "Auchan Onboarding",
+ "display": "fullscreen",
  "theme_color": "#000000",
- "background_color": "#000000",
- "display": "fullscreen"
+ "start_url": "index.htm?installed=true",
+ "background_color": "#000000"
 }
